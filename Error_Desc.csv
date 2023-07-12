@@ -1,0 +1,152 @@
+﻿Short Description,Category,Solution code
+adding spark packages in CDSW,Capacity,Housekeeping
+UAT  spark submit not going to the designated queue,Configuration,Amend Configuration
+We are facing following issue due to which spark job getting fail,Data-Transaction,Workaround
+Spark error on UAT Cluster connectivity via DoD,Configuration,Workaround
+Change /user/spark retention period from 30 to 15 days in all UAT clusters.,Configuration,Amend Configuration
+Unable to start a spark session,Dependent System,No Action Taken
+Spark jobs are failing as namespace quote is full,Capacity,Housekeeping
+Facing Spark connectivity issue,Capacity,Housekeeping
+Error Submitting Spark Job,Capacity,Workaround
+Job got stuck at spark command,Capacity,Housekeeping
+Unable to kill prod job,Configuration,Service/Process Restart
+"getting ""OutOfMemoryError: Java heap space"" error in  job run",Configuration,Amend Configuration
+Not able to open spark-shell terminal,Configuration,Workaround
+Unable to run spark job ,No Fault Found,Workaround
+spark submit fails ,Miscategorised,Training/Advise
+Cannot create spark session,Configuration,Amend Configuration
+Killed Spark jobs are visible in Spark history server and holding on to resources causing further delay for other jobs,Capacity,Workaround
+Job aborted abruptly,Capacity,Housekeeping
+Unable to execute multiple table joined queries in Spark shell,Configuration,Amend Configuration
+Need Help for Oozie and spark testing ,Configuration,Workaround
+Spark connected jobs are failing,Capacity,Workaround
+Spark client always fails,Configuration,Amend Configuration
+Spark client always fails,Configuration,Workaround
+pyspark >>> Permission denied,Access,User Configuration
+All jobs stuck in Spark Command,User Access,Permissions Updated
+Getting error while running spark2 cmd mention below.,Capacity,Workaround
+[Spark][PROD]Not possible to share same queue with more than one Spark session,Configuration,Workaround
+SparkUI: Failed to bind SparkUI,Capacity,Housekeeping
+Error while executing pySpark jobs,No Fault Found,No Action Taken
+copying jars to hdfs for spark shell fast loading from windows,Configuration,Workaround
+"Exception: Python in worker has different version 3.6 than that in driver 3.7, PySpark cannot run",Configuration,Workaround
+CDP | Production jobs failing with Hive Client errors,No Fault Found,Training/Advise
+Not able to access database HIVE in  prod,Dependent System,Workaround
+"Able to access Hadoop Tables through Hive, but not through impala",Cancelled,No Action Taken
+Hive Slowness,Capacity,Additional Capacity
+"Please change the owner of the below  diretory and file to ""john"" from ""hive""",User Access,Permissions Updated
+Created Hive ODBC is unable to load data,Dependent System,Workaround
+"Able to access Hadoop Tables through Hive, but not through impala",Capacity,Workaround
+HIVE : Getting No Databases found error,No Fault Found,Training/Advise
+Hive query issue in PROD,No Fault Found,Training/Advise
+issue with hive property modification,Configuration,Workaround
+Unable to create hive table in UAT env,No Fault Found,No Action Taken
+Unable to access  hive from jupiter,Dependent System,Workaround
+Deleting data form external Hive tables,Data,Data Deleted
+Can't connect to HIVE UAT,Miscategorised,No Action Taken
+Job stuck with HS2,No Fault Found,Training/Advise
+Hive issue,Configuration,Amend Configuration
+Facing Project Space Memory Issue- can't run query in HUE (hive/Impala),Capacity,Additional Capacity
+Issue in Hive,Capacity,Housekeeping
+Hive/Implala issue ,Capacity,Workaround
+Facing Project Space Memory Issue- can't run query in HUE (hive/Impala),No Fault Found,No Action Taken
+"HIVE not working, Always showing repload option",Dependent System,Workaround
+Hive issue ,Miscategorised,Training/Advise
+Few Issues and questions on Impala and Hive,Miscategorised,Training/Advise
+Could you please check which user is locked this table in hive.,User Access,Permissions Updated
+Hive and Oozie is  down.,Known Error,No Action Taken
+unable to connect to hive service down,Access,Access Permissions Modified
+Tableau Extract refresh is failing in Prod frequently with SSL_read error when trying to refresh from Hive Tables,Technical Failure,Amend Configuration
+Unix_timestamp is not working in Hive its giving null Value.,Configuration,Amend Configuration
+"While running queries in HUE I keep getting following error: : FAILED: Execution Error, return code 1 from org.apache.hadoop.hive.ql.exec.tez.TezTask",User Error,Amend Configuration
+HDFS ranger policy missing,Configuration,Workaround
+CONTROL-M PROD  RANGER AUIDT FAILURE,Configuration,Workaround
+Please create Ranger policy for network team,User Access,Permissions Granted
+Assign role to ABC policy in ranger,User Access,Permissions Updated
+Export all polices to to PROD env in ranger,Configuration,Amend Configuration
+RangerAdmin service is unavailable,Configuration,Housekeeping
+grant db level access to user in ranger,User Access,Permissions Updated
+Revoke exeute priv for user in ranger,User Access,Permissions Updated
+Ranger autorization failed,Configuration,Amend Configuration
+"Some rogue jobs are occuping all available memory in YARN Queue, need help to kill those jobs ASAP",Capacity,Workaround
+To Extract YARN Logs from edge node,Miscategorised,Training/Advise
+YARN log for : application_11111111111_2222  from PROD,Configuration,Workaround
+Facing yarn cluster issue in UAT,Configuration,Workaround
+Yarn Queue space issue,Configuration,Workaround
+Unable to Run Pyspark/Yarn Jobs/ Automated Jobs using service accounts,User Access,Permissions Updated
+Facing issue with Yarn jobs,Configuration,Amend Configuration
+Production queue crunch in root.abcdefgh ; Job stuck for long time,Account Administration,Additional Capacity
+Kindly check and let me know is it possible to add additional resource to hadoop_apac,Capacity,Additional Capacity
+Killed Spark jobs are visible in Spark history server and holding on to resources causing further delay for other jobs,Capacity,Workaround
+Please provide resource details for all the queue associated with root,Configuration,Workaround
+Urgent configuration correction required on Resource scheduler for roots.xyz queue,Configuration,Amend Configuration
+Increase resources capacity for Queue,Capacity,No Action Taken
+Production queue  resources update,Account Administration,Additional Capacity
+Kindly check and let me know is it possible to add additional resource to hadoop_global,Capacity,Additional Capacity
+Killed Spark jobs are visible in Spark history server and holding on to resources causing further delay for other jobs,Capacity,Workaround
+Please provide resource details for all the queue associated ,Configuration,Workaround
+Urgent configuration correction required on Resource scheduler for queue,Configuration,Workaround
+Spark Job stuck in ACCEPTED state since a long time on Queue: root.abc,Configuration,Workaround
+oozie logs not showing in  HUE,Configuration,Workaround
+Unable to schedule oozie_workflow,Account Administration,Workaround
+Data Quality Issue in Oozie Export Jobs,Configuration,Workaround
+Publisher fails  - oozie job id -168,No Fault Found,No Action Taken
+Need Help for Oozie and spark testing,Configuration,Workaround
+i am not able execute oozie workflow,Miscategorised,Training/Advise
+Unable to access below mentioned oozie log,Capacity,Amend Configuration
+Hive and Oozie is  down.,Known Error,Workaround
+Jupiter not able to submit oozie job,Miscategorised,Training/Advise
+Oozie job scheduler not tiggering,Configuration,Workaround
+oozie logs not showing in  HUE,Configuration,Workaround
+Business user is getting error while accessing hue.,Troubleshooting Fix,Workaround
+User is not able to access hue url. Getting UnboundLocalError,Configuration,Amend Configuration
+Unable to schedule wf_invalid. hue-oozie-1674471069.81,Account Administration,Training/Advise
+User are not able to access Hue on PROD environment,Account Administration,Training/Advise
+None of the busines user can access path on Hue,Miscategorised,Training/Advise
+"New account for HUE, ACL for any new project space of EAP Cluster",Miscategorised,Training/Advise
+We have facing issue while running queries on HUE and CLI for PROD,Data,Workaround
+Users unable to access Hue after modifying ACL for users,User Access,Permissions Updated
+Not able to run workflow from Hue in PROD.,User Access,Permissions Updated
+ACL Issue - Unable to access Hue Database Report,User Access,Permissions Updated
+Error when trying to log in to HUE DR,Configuration,Workaround
+Error when trying to log in to HUE DR,User Access,Permissions Updated
+Urgent - cannot access hue ,User Access,Permissions Updated
+Hue group Sync in Prod,Configuration,Amend Configuration
+Cannot loging into HUE (Impala) on EAP UAT,Miscategorised,Training/Advise
+Facing Project Space Memory Issue- can't run query in HUE (hive/Impala),Capacity,Additional Capacity
+"HUE not working, it is down since more than 2 hours",Capacity,Workaround
+Can not access to HUE,User Access,Permissions Updated
+Erro with HUE/EAP,Capacity,Housekeeping
+Slowness in Hue,Capacity,Workaround
+Unable to do csv data dump on uat hue impala,Capacity,Additional Capacity
+Facing Project Space Memory Issue- can't run query in HUE (hive/Impala),No Fault Found,No Action Taken
+Hue Authentication getting expired repeatedly,Configuration,Workaround
+Hue Links are not working for all the domains,User Access,Not Listed
+HUE issue in UAT : Unable to connect to HUE UI and getting blank page,Miscategorised,Training/Advise
+HUE Memory Limit Issue,Configuration,Workaround
+"While running queries in HUE I keep getting following error: : FAILED: Execution Error, return code 1 from org.apache.hadoop.hive.ql.exec.tez.TezTask",Miscategorised,Training/Advise
+Error char format uploading file in hdfs,Transaction Data,Ci Reboot
+copying jars to hdfs for spark shell fast loading from windows,Security,File Permission -Modify
+unable to load files to HDFS path,Configuration,Amended Configuration
+org.apache.hadoop.hdfs.BlockMissingException in HDFS,Replication,Service Restarted
+hdfs  filesystem   failed to initialize,Hardware,Syster Driver Updated
+Apache Hadoop MapReduce Job History Server (JHS) vulnerability,Troubleshooting,Syster Driver Updated
+Hadoop LdapGroupsMapping does not support LDAPS for self-signed LDAP server,User Access,Permissions Updated
+CVE-2018-1296 Permissive Apache Hadoop HDFS listXAttr Authorization Exposes Extended Attribute Key/Value Pairs,Security,Keytab Created
+"Clusters running CDH 5.16.1, 6.1.0, or 6.1.1 can lose some HDFS file permissions any time the NameNode is restarted",Configuration,Workaround
+Potential data corruption due to race conditions between concurrent block read and write,Data Related,Workaround
+Cannot re-encrypt an encryption zone if a previous re-encryption on it was canceled,Configuration,Workaround
+Potential Block Corruption and Data Loss During Pipeline Recovery,Configuration,Workaround
+DiskBalancer Occasionally Emits False Error Messages,Configuration,Workaround
+DistCp between unencrypted and encrypted locations fails,Datacopy,Data Copied
+HDFS NFS gateway and CDH installation (using packages) failedin HDFS,Configuration,Workaround
+HDFS fails   ACL support for the NFS gateway,User Access,Permissions Updated
+Job failing with webHDFS error in Prod,Configuration,Workaround
+"Hi TEAM, We are getting below errors while trying to access HDFS path in UAT. We need to go live with Data access by March 3",User Access,Permissions Updated
+Caused by: org.apache.hadoop.hdfs.BlockMissingException,Configuration,Workaround
+We have a job abend due to org.apache.hadoop.hdfs.BlockMissingException for application,Capacity,Housekeeping
+PROD | webHDFS  namenode operations Failing,Configuration,Workaround
+Transferring empty file to HDFS when trying to send files via webHDFS protocol,Data-Transaction,Workaround
+HDFS files/folder details,Capacity,Workaround
+copying jars to hdfs for spark shell fast loading from windows,Configuration,Workaround
+webHDFS  namenode operations Failing,Data,Workaround

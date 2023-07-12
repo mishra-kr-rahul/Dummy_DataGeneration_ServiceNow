@@ -1,0 +1,37 @@
+Short Description,Closure Code,Solution code
+adding spark packages in CDSW,Capacity,Housekeeping
+UAT BDC spark submit not going to the designated queue,Configuration,Amend Configuration
+We are facing following issue due to which spark job getting fail,Data-Transaction,NONE
+Spark error on UAT Cluster connectivity via DoD,Configuration,Workaround
+Change /user/spark retention period from 30 to 15 days in all clusters,Configuration,Amend Configuration
+Unable to start a spark session,Dependent System,No Action Taken
+Spark jobs are failing as namespace quote is full,Capacity,Housekeeping
+Facing Spark connectivity issue,Capacity,Housekeeping
+Error Submitting Spark Job,Capacity,Workaround
+Job got stuck at spark command,Capacity,Housekeeping
+Unable to kill wf_quadspark_ords_main_and_consolidated job,Configuration,Service/Process Restart
+"getting ""OutOfMemoryError: Java heap space"" error in wf_quadspark_ords_main_and_consolidated job run",Configuration,Amend Configuration
+Spark Job stuck in ACCEPTED state since a long time on Queue:XXXXXXXX,Configuration,Workaround
+Not able to open spark-shell termainal in fraasecmdd1 ,Configuration,Workaround
+Unable to run spark job ,No Fault Found,Workaround
+spark submit fails ,Miscategorised,Training/Advise
+Cannot create spark session,Configuration,Amend Configuration
+Killed Spark jobs are visible in Spark history server and holding on to resources causing further delay for other jobs,Capacity,Workaround
+Job aborted SPARK_DWH_OCS_OXNOFD ,Capacity,Housekeeping
+"getting ""TGT renewal thread has been interrupted and will exit"" Warning in wf_quadspark_ords_main_and_consolidated job after successful completion",Configuration,Workaround
+Unable to execute multiple table joined queries in Spark shell,Configuration,Amend Configuration
+Ruth run_L04.sh failed pyspark.sql.utils.AnalysisException.,Configuration,Workaround
+Need Help for Oozie and spark testing ,Configuration,Workaround
+Spark connected jobs are failing,Capacity,Workaround
+Spark client always fails,Configuration,Amend Configuration
+Spark client always fails,Configuration,Workaround
+pyspark >>> Permission denied,Access,User Configuration
+Unable to Run Pyspark/Yarn Jobs/ Automated Jobs using service accounts mapped to XXX,Fault Found,Training/Advise
+All jobs stuck in Spark Command,User Access,Permissions Updated
+Getting error while running spark2 cmd mention below.,Capacity,Workaround
+[Spark][PROD]Not possible to share same queue with more than one Spark session,Configuration,Workaround
+SparkUI: Failed to bind SparkUI,Capacity,Housekeeping
+Critical-High : Spark service is unavailable. Refer the KB article KB,No Fault Found,No Action Taken
+Error while executing pySpark jobs,No Fault Found,No Action Taken
+copying jars to hdfs for spark shell fast loading from windows,Configuration,
+"Exception: Python in worker has different version 3.6 than that in driver 3.7 and PySpark cannot run",Configuration,Workaround
